@@ -1,4 +1,4 @@
-# check_zammad_monitoring
+# check_portainer_license
 This script checks the validity period of the current Portainer license and issues a Critical if it is less than 30 days.
 
 ```
